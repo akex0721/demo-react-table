@@ -1,0 +1,10 @@
+export const FETCH_ONE = 'jobs/FETCH_ONE';
+export const FETCH_ONE_SUCCESS = 'jobs/FETCH_ONE_SUCCESS';
+export const FETCH_COLLECTION = 'jobs/FETCH_COLLECTION';
+export const FETCH_COLLECTION_SUCCESS = 'jobs/FETCH_COLLECTION_SUCCESS';
+export const CREATE = 'jobs/CREATE_JOB';
+export const CREATE_SUCCESS = 'jobs/CREATE_JOB_SUCCESS';
+export const UPDATE = 'jobs/UPDATE';
+export const UPDATE_SUCCESS = 'jobs/UPDATE_SUCCESS';
+export const DELETE = 'jobs/DELETE';
+export const DELETE_SUCCESS = 'jobs/DELETE_SUCCESS';
